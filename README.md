@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Foti-G I was in Helath care for over 20 years and I had an interest in becoming a Data Analyst
+- 👋 Hi, I’m @Foti-G I was in Health care for over 20 years and I had an interest in becoming a Data Analyst
 - 👀 I’m interested in Data Analysis, HealthCare, Crypto and decentralized ledgers. 
 - 🌱 I’m currently learning Data Analysis, SQL
 - 💞️ I’m looking to collaborate on Data Analysis for Healthcare or other projects
